@@ -1,0 +1,18 @@
+﻿  Cancion.cpp
+  ListaDoble.cpp
+  nodo.cpp
+  Pila.cpp
+  Main.cpp
+C:\Users\jeffr\source\repos\Prueba1\Prueba1\Main.cpp(76,35): warning C4101: 'e': unreferenced local variable
+C:\Users\jeffr\source\repos\Prueba1\Prueba1\Main.cpp(289,34): warning C4101: 'e': unreferenced local variable
+C:\Users\jeffr\source\repos\Prueba1\Prueba1\Main.cpp(625,39): warning C4101: 'e': unreferenced local variable
+C:\Users\jeffr\source\repos\Prueba1\Prueba1\Main.cpp(667,39): warning C4101: 'e': unreferenced local variable
+C:\Users\jeffr\source\repos\Prueba1\Prueba1\Main.cpp(721,39): warning C4101: 'e': unreferenced local variable
+C:\Users\jeffr\source\repos\Prueba1\Prueba1\Main.cpp(769,39): warning C4101: 'e': unreferenced local variable
+  PilaPlay.cpp
+  Playlist.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 361 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Prueba1.vcxproj -> C:\Users\jeffr\source\repos\Prueba1\x64\Release\Prueba1.exe

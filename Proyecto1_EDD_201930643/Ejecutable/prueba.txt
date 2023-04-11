@@ -1,0 +1,78 @@
+<Insertar>
+	<cancion>
+		<Nombre> cancion1 </Nombre>
+		<Path> prueba1 </Path>
+	</cancion>
+
+	<cancion>
+		<Nombre> cancion2 </Nombre>
+		<Path> prueba2 </Path>
+	</cancion>
+
+	<cancion>
+		<Nombre> cancion4 </Nombre>
+		<Path> prueba4 </Path>
+	</cancion>
+
+	<cancion>
+		<Nombre> cancion3 </Nombre>
+		<Path> prueba3 </Path>
+		<Pos> 2 <Pos>
+	</cancion>
+</Insertar>
+
+<Insertar>
+	<Lista>
+		<Nombre> playlist1 </Nombre>
+		<Descripcion> es la play1 </Descripcion>
+	</Lista>
+	<Lista>
+		<Nombre> eliminar1 </Nombre>
+		<Descripcion> es la play1 </Descripcion>
+	</Lista>
+	<Lista>
+		<Nombre> eliminar2 </Nombre>
+		<Descripcion> es la play1 </Descripcion>
+	</Lista>
+</Insertar>
+
+<Insertar>
+	<Lista>
+		<Nombre> playlist2 </Nombre>
+		<Description> es la play2 </Description>
+		<Canciones>
+			<pos> 0 </pos>
+			<pos> 1 </pos>
+			<pos> 2 </pos>
+		</Canciones>
+	</Lista>
+</Insertar>
+
+<Eliminar>
+	<cancion>
+		<id> 1 </id>
+	</cancion>
+	<cancion>
+		<Nombre> cancion1 </Nombre>
+	</cancion>
+</Eliminar>
+
+<Eliminar>
+	<Lista>
+		<id> 2 </id>
+	</Lista>
+	<Lista>
+		<Nombre> eliminar1 </Nombre>
+	</Lista>
+</Eliminar>
+
+<Eliminar>
+	<Lista>
+		<id> 1 </id>
+		<canciones>
+			<pos> 0 </pos>
+			<pos> 1 </pos>
+		</canciones>
+	</Lista>
+</Eliminar>
+
